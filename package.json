@@ -18,7 +18,7 @@
   }
 , "dependencies": {
     "bson-ext": "git+https://github.com/drmikecrowe/bson-ext.git",
-},
+}
 , "config":         { "native" : false }
 , "main":             "./lib/bson/index"
 , "directories" :   { "lib" : "./lib/bson" }
