@@ -17,7 +17,7 @@
     , "colors": "1.1.0"
   }
 , "dependencies": {
-    "bson-ext": "git+https://github.com/drmikecrowe/bson-ext.git",
+    "bson-ext": "git+https://github.com/drmikecrowe/bson-ext.git"
 }
 , "config":         { "native" : false }
 , "main":             "./lib/bson/index"
